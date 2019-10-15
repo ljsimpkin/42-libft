@@ -15,4 +15,4 @@ Optionally include the following headers for additional functionality:
 #include "get_next_line.c"
 #include "ft_printf.c"
 ```
-Click here for more information on [libft](https://github.com/Matt-Hurd/42-libft/raw/master/libft.en.pdf)
+Click here to download more information on [libft](https://github.com/Matt-Hurd/42-libft/raw/master/libft.en.pdf)
